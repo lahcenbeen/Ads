@@ -1,5 +1,5 @@
 {
-   "appName":"Draw Skulls Tattoos",
+   "appName":"Draw Animals",
    
    "adCounter":"5",
    
@@ -15,7 +15,7 @@
    "fbNativeAd":"508855279781598_511303182870141",
    "fbInterstitialAd":"508855279781598_508868939780232",
    
-   "packageName":"com.learntodraw.drawskullstattoo",
+   "packageName":"com.learntodraw.drawanimals",
    
    "storeName":"ICC Software"
 }
