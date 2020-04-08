@@ -1,21 +1,21 @@
 {
-   "appName":"Learn to Darw Animals",
+   "appName":"Draw Skulls Tattoos",
    
    "adCounter":5,
    
-   "startApp":"",
+   "startApp":"210878672",
    
-   "adAppId":"",
+   "adAppId":"ca-app-pub-3940256099942544~3347511713",
    
-   "adBannerAd":"",
-   "adNativeAd":"",
-   "adInterstitialAd":"",
+   "adBannerAd":"ca-app-pub-3940256099942544/6300978111",
+   "adNativeAd":"ca-app-pub-3940256099942544/2247696110",
+   "adInterstitialAd":"ca-app-pub-3940256099942544/1033173712",
    
-   "fbBannerAd":"",
-   "fbNativeAd":"",
-   "fbInterstitialAd":"",
+   "fbBannerAd":"508855279781598_511299449537181",
+   "fbNativeAd":"508855279781598_511303182870141",
+   "fbInterstitialAd":"508855279781598_508868939780232",
    
    "packageName":"com.learntodraw.drawskullstattoo",
    
-   "storeName":"Learn to Draw Step by Step"
+   "storeName":"ICC Software"
 }
