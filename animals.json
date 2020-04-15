@@ -3,7 +3,7 @@
    
    "adCounter":5,
    
-   "startApp":"210878672",
+   "startApp":"",
    
    "adAppId":"ca-app-pub-3940256099942544~3347511713",
    
@@ -11,9 +11,9 @@
    "adNativeAd":"",
    "adInterstitialAd":"",
    
-   "fbBannerAd":"221040259122941_221044249122542",
-   "fbNativeAd":"221040259122941_221043839122583",
-   "fbInterstitialAd":"221040259122941_221044585789175",
+   "fbBannerAd":"",
+   "fbNativeAd":"",
+   "fbInterstitialAd":"",
    
    "packageName":"com.learntodraw.drawanimals",
    
