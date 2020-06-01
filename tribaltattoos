@@ -1,0 +1,21 @@
+{
+   "appName":"Draw Butterfly",
+   
+   "adCounter":5,
+   
+   "startApp":"",
+   
+   "adAppId":"ca-app-pub-3940256099942544~3347511713",
+   
+   "adBannerAd":"",
+   "adNativeAd":"",
+   "adInterstitialAd":"",
+   
+   "fbBannerAd":"",
+   "fbNativeAd":"",
+   "fbInterstitialAd":"",
+   
+   "packageName":"com.learntodraw.drawtribaltattoo",
+   
+   "storeName":"Learn to Draw Step by Step"
+}
