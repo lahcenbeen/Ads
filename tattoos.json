@@ -1,0 +1,21 @@
+{
+   "appName":"Draw Tattoos",
+   
+   "adCounter":5,
+   
+   "startApp":"",
+   
+   "adAppId":"ca-app-pub-4276485780311635~9373334390",
+   
+   "adBannerAd":"ca-app-pub-3940256099942544/6300978111",
+   "adNativeAd":"ca-app-pub-3940256099942544/2247696110",
+   "adInterstitialAd":"ca-app-pub-3940256099942544/1033173712",
+   
+   "fbBannerAd":"",
+   "fbNativeAd":"",
+   "fbInterstitialAd":"",
+   
+   "packageName":"com.learntodraw.tobetattoomaker",
+   
+   "storeName":"ICC Software"
+}
